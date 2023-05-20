@@ -52,7 +52,7 @@ The layout for this exercise requires a lot of `<div>` and boxes, here is a prop
 
 ### If you are using bootstrap
 
-If you are using bootstrap look for the forms documentation and read the example layouts, don't just copy paste what you see, try understanding the HTML code behind the examples so you can tweak them into your solution.
+If you are using bootstrap look for the forms documentation and read the example layouts, do not just copy paste what you see, try understanding the HTML code behind the examples so you can tweak them into your solution.
 
 ## What to do if you are stuck?
 
